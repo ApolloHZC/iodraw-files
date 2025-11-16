@@ -33,17 +33,18 @@
         <mxCell id="Txl0W4woJiR12CmeVxYn-11" value="CAD Model" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="185" y="50" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Txl0W4woJiR12CmeVxYn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Txl0W4woJiR12CmeVxYn-12" target="Txl0W4woJiR12CmeVxYn-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Txl0W4woJiR12CmeVxYn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Txl0W4woJiR12CmeVxYn-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245.00000000000023" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Txl0W4woJiR12CmeVxYn-12" value="The warpage deformation obtained through FEA" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="185" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Txl0W4woJiR12CmeVxYn-14" target="60e70716793133e9-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Txl0W4woJiR12CmeVxYn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="185" y="150" width="120" height="40" as="geometry" />
+        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="60e70716793133e9-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245.00000000000023" y="190" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-13" target="6Zq2s6b1zG8-wbeYcFa1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />

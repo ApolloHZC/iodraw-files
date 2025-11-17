@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-48" value="Out of tolerance" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="370" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="392" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-51" target="6Zq2s6b1zG8-wbeYcFa1-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -232,7 +232,8 @@
             <Array as="points">
               <mxPoint x="360" y="625" />
               <mxPoint x="360" y="190" />
-              <mxPoint x="530" y="190" />
+              <mxPoint x="550" y="190" />
+              <mxPoint x="550" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -241,8 +242,8 @@
             <Array as="points">
               <mxPoint x="350" y="625" />
               <mxPoint x="350" y="170" />
-              <mxPoint x="600" y="170" />
-              <mxPoint x="600" y="415" />
+              <mxPoint x="610" y="170" />
+              <mxPoint x="610" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -251,8 +252,8 @@
             <Array as="points">
               <mxPoint x="350" y="625" />
               <mxPoint x="350" y="140" />
-              <mxPoint x="600" y="140" />
-              <mxPoint x="600" y="575" />
+              <mxPoint x="630" y="140" />
+              <mxPoint x="630" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>

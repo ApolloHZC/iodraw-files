@@ -52,28 +52,13 @@
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="&lt;div&gt;Establish an OMM comprehensive error model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="6Zq2s6b1zG8-wbeYcFa1-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203.9949999999999" y="635" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-25" value="&lt;div&gt;Carry out measurement path planning in combination with the fitting curve&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-27" target="6Zq2s6b1zG8-wbeYcFa1-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="101" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="111" y="650" />
-              <mxPoint x="111" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-35" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;spacingTop=-9;" parent="6Zq2s6b1zG8-wbeYcFa1-34" vertex="1" connectable="0">
-          <mxGeometry x="-0.8764" y="-4" relative="1" as="geometry">
-            <mxPoint x="9" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-27" value="error of the process model&amp;nbsp;&lt;div&gt;meets the standard&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="135.87" y="600" width="136.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-43" target="6Zq2s6b1zG8-wbeYcFa1-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -249,6 +234,9 @@
         </mxCell>
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-6" value="Fitted deformation curve" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LCUVMlnt9izeCjlc3won-10" value="&lt;div&gt;Carry out measurement path planning in combination with the fitting curve&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="144" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

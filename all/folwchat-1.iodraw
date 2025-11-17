@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-93" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="360" y="30" width="260" height="610" as="geometry" />
+          <mxGeometry x="360" y="40" width="260" height="610" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-90" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#3333FF;spacingLeft=0;spacingBottom=0;spacing=0;spacingRight=-2;" parent="1" vertex="1">
           <mxGeometry x="74" y="380" width="246" height="285" as="geometry" />
@@ -238,8 +238,10 @@
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-6" value="Fitted deformation curve" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LCUVMlnt9izeCjlc3won-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LCUVMlnt9izeCjlc3won-10" target="6Zq2s6b1zG8-wbeYcFa1-83">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LCUVMlnt9izeCjlc3won-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LCUVMlnt9izeCjlc3won-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LCUVMlnt9izeCjlc3won-10" value="&lt;div&gt;OMM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="144" y="610" width="120" height="30" as="geometry" />

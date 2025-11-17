@@ -72,20 +72,6 @@
             <mxPoint x="9" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-90" target="6Zq2s6b1zG8-wbeYcFa1-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="610" />
-              <mxPoint x="350" y="50" />
-              <mxPoint x="530" y="50" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-55" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingBottom=-7;fontSize=8;" parent="6Zq2s6b1zG8-wbeYcFa1-44" vertex="1" connectable="0">
-          <mxGeometry x="-0.9736" relative="1" as="geometry">
-            <mxPoint x="-2" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-27" value="error of the process model&amp;nbsp;&lt;div&gt;meets the standard&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="137.88" y="615" width="136.25" height="70" as="geometry" />
         </mxCell>
@@ -240,6 +226,12 @@
         </mxCell>
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ruUOmUKfXAbFCtv2l7Jk-6" target="60e70716793133e9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCUVMlnt9izeCjlc3won-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="96.0044827586207" y="230" as="sourcePoint" />
+            <mxPoint x="74.0044827586207" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-6" value="Fitted deformation curve" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="250" width="120" height="30" as="geometry" />

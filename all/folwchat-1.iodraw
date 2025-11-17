@@ -50,13 +50,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="Path planning and compensation" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="146" y="495" width="120" height="40" as="geometry" />
+          <mxGeometry x="144" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="6Zq2s6b1zG8-wbeYcFa1-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-25" value="Measure the true value for error analysis" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="146" y="555" width="120" height="40" as="geometry" />
+          <mxGeometry x="144" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-27" target="6Zq2s6b1zG8-wbeYcFa1-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +72,7 @@
             <mxPoint x="9" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-27" target="6Zq2s6b1zG8-wbeYcFa1-43" edge="1">
+        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-90" target="6Zq2s6b1zG8-wbeYcFa1-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="610" />

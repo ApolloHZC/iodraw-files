@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-93" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="370" y="70" width="300" height="620" as="geometry" />
+          <mxGeometry x="660" y="88.75" width="300" height="620" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-90" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#3333FF;spacingLeft=0;spacingBottom=0;spacing=0;spacingRight=-2;" parent="1" vertex="1">
           <mxGeometry x="740" y="365" width="180" height="310" as="geometry" />
@@ -49,16 +49,10 @@
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="Plan the OMM measurement path" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gziZDzEJ5_aLyYeAcuyU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="6Zq2s6b1zG8-wbeYcFa1-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="317" y="543" />
-              <mxPoint x="317" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="gziZDzEJ5_aLyYeAcuyU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gziZDzEJ5_aLyYeAcuyU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="6Zq2s6b1zG8-wbeYcFa1-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-25" value="OMM" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">

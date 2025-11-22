@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="710" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,11 @@
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="Plan the OMM measurement path" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="460" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gziZDzEJ5_aLyYeAcuyU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="6Zq2s6b1zG8-wbeYcFa1-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-25" value="OMM" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="144" y="526.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="144" y="522.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-43" target="6Zq2s6b1zG8-wbeYcFa1-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -177,6 +180,9 @@
         </mxCell>
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-6" value="Fit multiple deformation curve equations" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gziZDzEJ5_aLyYeAcuyU-8" value="OMM" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="154" y="532.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

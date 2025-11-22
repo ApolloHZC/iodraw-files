@@ -182,7 +182,7 @@
           <mxGeometry x="144" y="310" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-8" value="建立坐标系并建立误差模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="144" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-9" value="重构名义模型得到工艺模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="144" y="670" width="120" height="40" as="geometry" />

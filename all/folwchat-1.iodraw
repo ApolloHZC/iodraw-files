@@ -209,7 +209,7 @@
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gziZDzEJ5_aLyYeAcuyU-8" target="gziZDzEJ5_aLyYeAcuyU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gziZDzEJ5_aLyYeAcuyU-8" value="建立坐标系并建立误差模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gziZDzEJ5_aLyYeAcuyU-8" value="Establish a coordinate system and an error model" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="144" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gziZDzEJ5_aLyYeAcuyU-9" target="6Zq2s6b1zG8-wbeYcFa1-43">

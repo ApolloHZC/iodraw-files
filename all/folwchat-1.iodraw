@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Txl0W4woJiR12CmeVxYn-14" value="Large deformation magnitudes, 9-16 sampling points were selected to construct the mesh." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="180" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-13" target="6Zq2s6b1zG8-wbeYcFa1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-1" value="Small deformation magnitudes, 4-9 sampling points were selected to construct the mesh." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="214" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="214" y="180" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ruUOmUKfXAbFCtv2l7Jk-6" target="6Zq2s6b1zG8-wbeYcFa1-13">
           <mxGeometry relative="1" as="geometry" />

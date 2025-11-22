@@ -43,10 +43,10 @@
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-13" value="IPC calculate" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="&lt;div&gt;Establish an OMM comprehensive error model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="Plan the OMM measurement path" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-25" value="&lt;div&gt;Carry out measurement path planning in combination with the fitting curve&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-25" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Zq2s6b1zG8-wbeYcFa1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-43" target="6Zq2s6b1zG8-wbeYcFa1-48" edge="1">
@@ -175,7 +175,7 @@
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-6" value="Fit multiple deformation curve equations" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="310" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LCUVMlnt9izeCjlc3won-10" value="&lt;div&gt;OMM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="LCUVMlnt9izeCjlc3won-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="610" width="120" height="30" as="geometry" />
         </mxCell>
       </root>

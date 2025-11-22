@@ -181,7 +181,7 @@
         <mxCell id="ruUOmUKfXAbFCtv2l7Jk-6" value="Fit multiple deformation curve equations" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="310" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gziZDzEJ5_aLyYeAcuyU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gziZDzEJ5_aLyYeAcuyU-8" value="建立坐标系并重构名义模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="144" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

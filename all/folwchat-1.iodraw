@@ -46,7 +46,7 @@
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-16" target="6Zq2s6b1zG8-wbeYcFa1-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="Plan the OMM measurement path" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="6Zq2s6b1zG8-wbeYcFa1-16" value="Plan the&amp;nbsp;&lt;div&gt;&amp;nbsp;measurement path&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="144" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gziZDzEJ5_aLyYeAcuyU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="6Zq2s6b1zG8-wbeYcFa1-25" target="gziZDzEJ5_aLyYeAcuyU-8">
